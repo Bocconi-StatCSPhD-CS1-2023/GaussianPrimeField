@@ -2,7 +2,7 @@
 
 julia_version = "1.9.3"
 manifest_format = "2.0"
-project_hash = "0c4d3af99c9f69506536d54356b41ae580afc070"
+project_hash = "74a11bec1e32ea3d4e1409d612a8f5ff0efa7ba0"
 
 [[deps.IntegerMathUtils]]
 git-tree-sha1 = "b8ffb903da9f7b8cf695a8bead8e01814aa24b30"
@@ -14,3 +14,8 @@ deps = ["IntegerMathUtils"]
 git-tree-sha1 = "4c9f306e5d6603ae203c2000dd460d81a5251489"
 uuid = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
 version = "0.5.4"
+
+[[deps.Subscripts]]
+git-tree-sha1 = "1a7e74e19e1a430e8407902fd0a384b90f8415d3"
+uuid = "2b7f82d5-8785-4f63-971e-f18ddbeb808e"
+version = "0.1.2"
